@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<resources projectname="XBMC-Main-Frodo" http_cache_expire="1316056512" min_completion="10%">
+<resources projectname="XBMC-Main-Frodo" http_cache_expire="360" min_completion="10%">
       <resource name="script.xbmc.subtitles">
         <TXname>script-xbmc-subtitles</TXname>
         <upstreamURL filetype="xml">https://raw.github.com/amet/script.xbmc.subtitles/master/script.xbmc.subtitles/</upstreamURL>
